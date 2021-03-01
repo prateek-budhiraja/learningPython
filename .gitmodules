@@ -1,0 +1,3 @@
+[submodule "intro/projects/projects-py"]
+	path = intro/projects/projects-py
+	url = https://github.com/prateek-budhiraja/projects-py.git
