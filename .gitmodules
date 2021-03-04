@@ -1,9 +1,9 @@
-[submodule "intro/projects/projects-py"]
-	path = intro/projects/projects-py
-	url = https://github.com/prateek-budhiraja/projects-py.git
-[submodule "intro/projects/biased-dice"]
-	path = intro/projects/biased-dice
-	url = https://github.com/prateek-budhiraja/biased-dice.git
-[submodule "intro/projects/rockPaperScissors-terminal"]
-	path = intro/projects/rockPaperScissors-terminal
+[submodule "1-getting-started/projects/rockpaperscissors"]
+	path = 1-getting-started/projects/rockpaperscissors
 	url = https://github.com/prateek-budhiraja/rockPaperScissors-terminal.git
+[submodule "1-getting-started/projects/project"]
+	path = 1-getting-started/projects/project
+	url = https://github.com/prateek-budhiraja/projects-py.git
+[submodule "1-getting-started/projects/biaseddice"]
+	path = 1-getting-started/projects/biaseddice
+	url = https://github.com/prateek-budhiraja/biased-dice.git
